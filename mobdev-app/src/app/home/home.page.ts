@@ -8,11 +8,9 @@ import { Component } from '@angular/core';
 export class HomePage {
 
 myVariable: string = "the force is with me!"
-randomTXT: boolean = true;
+
 updateMyValue(){
   this.myVariable = "now the force is even stronger!";
 
 }
-
-
 }
