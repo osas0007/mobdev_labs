@@ -10,7 +10,7 @@ export class HomePage {
 myVariable: string = "the force is with me!"
 
 updateMyValue(){
-  this.myVariable = "now the force is even stronger!";
+  this.myVariable = "now the force is even stronger!!";
 
 }
 }
